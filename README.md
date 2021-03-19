@@ -1,5 +1,7 @@
 # Hostile-Post-Detection-in-Hindi
 
+![image](https://user-images.githubusercontent.com/70293103/111769538-59bb7f80-88cf-11eb-8d3d-46dee6f33a35.png)
+Pipeline of KDD Iteration 1 and 2
 
 ## Install
 This project requires Python and the following Python libraries installed:
