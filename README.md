@@ -48,3 +48,13 @@ Model specific installations:
 
 
 Note : Place the .csv files in the root of the project directory.
+
+## Author
+
+Kirti Kunj Bajpai
+
+Interests-> Development and Data Structures and Algorithm
+
+If you have any queries/doubts regarding the project, mail me at kkbajpai.kk@gmail.com
+
+If you liked the repo then please support it by giving it a star ⭐!
