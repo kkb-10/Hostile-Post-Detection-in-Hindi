@@ -10,11 +10,7 @@ This project requires Python and the following Python libraries installed:
 * Numpy
 * Seaborn
 * Matplotlib
-* Nltk
-* Sklearn
-* Re
-* Itertools
-* Mxnet
+
 
 Model specific installations:
 * m-BERT:
